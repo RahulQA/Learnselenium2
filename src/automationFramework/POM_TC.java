@@ -40,6 +40,7 @@ public class POM_TC {
 	BookFlight.Chk_creditnumber(driver).sendKeys("4444333322221111");
 	BookFlight.btn_buyFlights(driver).click();
 	driver.quit();
+	System.out.println("Change to see in GitHub");
 //	
 	//Test Case with Blank User Name
 	
